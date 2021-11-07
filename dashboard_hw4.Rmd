@@ -30,7 +30,7 @@ new_df = sample_n(rest_inspec, 5000)
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A: Scores by boro and grade
+### Chart A: Scores and grade
 
 ```{r}
 new_df %>%
